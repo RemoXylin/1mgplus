@@ -1,0 +1,22 @@
+{
+  "name": "1mgplus",
+  "version": "1.0.0",
+  "description": "Our First E-Commerce Website",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Ecommerce"
+  ],
+  "author": "k2",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "express": "^4.18.2",
+    "g": "^2.0.1",
+    "git": "^0.1.5",
+    "nodemon": "^3.0.1"
+  }
+}
